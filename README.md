@@ -20,8 +20,6 @@
 
 <br/>
 
----
-
 <h2 align="center">Habilidades</h2>
 
 <div align="center">
@@ -43,7 +41,7 @@
 
 </div>
 
----
+<br/>
 
 <h2 align="center">Em progresso</h2>
 
@@ -57,15 +55,15 @@
 
 </div>
 
----
+<br/>
 
 <h2 align="center">Estatísticas do GitHub</h2>
 
 <div align="center">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasLgomes&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00bfff&icon_color=00bfff&text_color=c9d1d9&ring_color=00bfff&count_private=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=LucasLgomes&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00bfff&icon_color=00bfff&text_color=c9d1d9&ring_color=00bfff&count_private=true" alt="GitHub Stats"/>
   &nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasLgomes&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00bfff&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LucasLgomes&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00bfff&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
 
   <br/><br/>
 
@@ -73,7 +71,7 @@
 
 </div>
 
----
+<br/>
 
 <h2 align="center">Entre em contato comigo!</h2>
 
@@ -88,10 +86,9 @@
 
 </div>
 
----
+<br/>
 
 <div align="center">
-  <br/>
   <strong>"Código bom resolve problemas. Código com visão transforma operações."</strong>
   <br/><br/>
   <img src="https://komarev.com/ghpvc/?username=LucasLgomes&color=00bfff&style=flat-square&label=Visitantes" alt="Profile Views"/>
