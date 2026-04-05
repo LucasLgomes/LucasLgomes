@@ -73,22 +73,6 @@
 
 </div>
 
----
-
-## 📬 Entre em contato comigo!
-
-<div align="center">
-
-  <a href="https://www.linkedin.com/in/lucaslima012" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-lucaslima012-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>&nbsp;
-  <a href="mailto:lucaslgomes549@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-lucaslgomes549-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-
-</div>
-
----
 
 <div align="center">
   <br/>
