@@ -20,23 +20,9 @@
 
 <br/>
 
-## 🧑‍💻 Sobre mim
-
-```yaml
-nome: Lucas Vinicius
-cargo: Desenvolvedor Full Stack Pleno (Inovação)
-empresa: Farma Conde
-local: São José dos Campos, SP
-formação: Análise e Desenvolvimento de Sistemas
-```
-
-🔹 Atuo no time de **Inovação da Farma Conde**, focado em **integrações entre plataformas**, **automações** e **produtos internos** para e-commerce e varejo.
-
-🔹 Conecto sistemas como **VTEX, iFood, Mercado Livre, TikTok Shop** e **ERPs**, consolido dados em **SQL Server** e construo **dashboards com visão de negócio**.
-
 ---
 
-## 🚀 Habilidades
+<h2 align="center">Habilidades</h2>
 
 <div align="center">
 
@@ -59,7 +45,7 @@ formação: Análise e Desenvolvimento de Sistemas
 
 ---
 
-## 📚 Habilidades das quais ainda almejo!
+<h2 align="center">Em progresso</h2>
 
 <div align="center">
 
@@ -70,14 +56,6 @@ formação: Análise e Desenvolvimento de Sistemas
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 
 </div>
-
----
-
-## ⚡ Hobbies
-
-🎮 Gamer nas horas vagas — FPS, MMORPG e o que mais aparecer!
-
-📖 Amo ler, especialmente light novels e manhwas!
 
 ---
 
