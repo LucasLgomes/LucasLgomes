@@ -1,95 +1,122 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfff&height=120&section=header"/>
+
 <div align="center">
 
-# Lucas Vinicius
-
-**Desenvolvedor Full Stack Pleno** · Inovação · Integrações · Automações
-
-São José dos Campos, SP
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucaslima012)
-[![Gmail](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:lucaslgomes549@gmail.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/LucasLgomes)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+sou+Lucas+Vinicius+👋;Desenvolvedor+Full+Stack+Pleno;Integrações+·+Automações+·+E-commerce)](https://git.io/typing-svg)
 
 </div>
 
----
-
-### Sobre
-
-Desenvolvedor Full Stack no time de Inovação da **Farma Conde**, focado em integrações entre plataformas de e-commerce, automações de processos e produtos internos para operação. Trabalho conectando sistemas como VTEX, iFood, Mercado Livre, TikTok Shop e ERPs corporativos, consolidando dados e gerando visibilidade de negócio.
-
-Transição de **Assistente de ERP** para **Desenvolvedor Full Stack Pleno** — construída com entrega, consistência e visão técnica.
-
----
-
-### Stack
-
 <div align="center">
-
-**Back-end** · PHP · Node.js · Python · REST APIs
-
-**Front-end** · JavaScript · jQuery · Bootstrap · HTML · CSS · ECharts
-
-**Dados** · SQL Server · MySQL · PostgreSQL · Oracle
-
-**Integrações** · VTEX · VTEX IO · iFood · AnyMarket · Mercado Livre · TikTok Shop · n8n · Webhooks
-
-**Cloud** · Google Cloud Platform · GA4 · Google Merchant Center
-
-**Métodos** · Scrum · Kanban · Businessmap
-
+  <a href="https://www.linkedin.com/in/lucaslima012" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>&nbsp;
+  <a href="mailto:lucaslgomes549@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>&nbsp;
+  <a href="https://github.com/LucasLgomes" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </div>
-
----
-
-### Projetos e Impactos
-
-- **VTEX** — integração completa de pedidos (PBM + comum) via VTEX IO com consolidação em SQL Server
-- **Conde Negócios** — dashboard de posicionamento digital com visão por canal, vendas/hora e previsibilidade
-- **iFood** — coleta centralizada de pedidos de **260+ lojas** com base interna de controle
-- **Marketplaces** — fluxo fiscal automatizado (NF/XML) do Mercado Livre via AnyMarket para o ERP Procfit
-- **TikTok Shop** — implantação do fluxo fiscal completo com integração ERP
-- **LOCUS** — rastreio de volumes/romaneios no fluxo CD → Lojas
-- **Automações** — n8n + WhatsApp · Python para XML de NF-e · Node.js para rotinas internas
-
----
-
-### Em Evolução
-
-<div align="center">
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-
-</div>
-
----
-
-### Certificações
-
-`Node.js · Rocketseat 2025` · `Full Stack PHP · Alura 2024` · `PHP · Alura 2024` · `SQL Server 2022 · Alura 2024` · `Git e GitHub · Alura 2024` · `HTML e CSS · Alura 2024`
-
----
-
-### Estatísticas
-
-<div align="center">
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=LucasLgomes&show_icons=true&theme=transparent&hide_border=true&title_color=c9d1d9&icon_color=58a6ff&text_color=8b949e" alt="Stats"/>
-&nbsp;
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasLgomes&layout=compact&theme=transparent&hide_border=true&title_color=c9d1d9&text_color=8b949e" alt="Languages"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=LucasLgomes&theme=transparent&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9&sideLabels=8b949e&dates=555555" alt="Streak"/>
+## 🧑‍💻 Sobre mim
+
+```yaml
+nome: Lucas Vinicius
+cargo: Desenvolvedor Full Stack Pleno (Inovação)
+empresa: Farma Conde
+local: São José dos Campos, SP
+formação: Análise e Desenvolvimento de Sistemas
+```
+
+🔹 Atuo no time de **Inovação da Farma Conde**, focado em **integrações entre plataformas**, **automações** e **produtos internos** para e-commerce e varejo.
+
+🔹 Conecto sistemas como **VTEX, iFood, Mercado Livre, TikTok Shop** e **ERPs**, consolido dados em **SQL Server** e construo **dashboards com visão de negócio**.
+
+---
+
+## 🚀 Habilidades
+
+<div align="center">
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+
+</div>
+
+---
+
+## 📚 Habilidades das quais ainda almejo!
+
+<div align="center">
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+
+</div>
+
+---
+
+## ⚡ Hobbies
+
+🎮 Gamer nas horas vagas — FPS, MMORPG e o que mais aparecer!
+
+📖 Amo ler, especialmente light novels e manhwas!
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasLgomes&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00bfff&icon_color=00bfff&text_color=c9d1d9&ring_color=00bfff" alt="GitHub Stats"/>
+  &nbsp;
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasLgomes&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00bfff&text_color=c9d1d9" alt="Top Languages"/>
+
+  <br/><br/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=LucasLgomes&theme=tokyonight&hide_border=true&background=0D1117&ring=00bfff&fire=00bfff&currStreakLabel=00bfff&sideLabels=c9d1d9&dates=555555" alt="GitHub Streak"/>
+
+</div>
+
+---
+
+## 📬 Entre em contato comigo!
+
+<div align="center">
+
+  <a href="https://www.linkedin.com/in/lucaslima012" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-lucaslima012-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>&nbsp;
+  <a href="mailto:lucaslgomes549@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-lucaslgomes549-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 
 </div>
 
 ---
 
 <div align="center">
-  <sub>Construindo soluções que conectam sistemas e transformam operações.</sub>
+  <br/>
+  <strong>"Código bom resolve problemas. Código com visão transforma operações."</strong>
+  <br/><br/>
+  <img src="https://komarev.com/ghpvc/?username=LucasLgomes&color=00bfff&style=flat-square&label=Visitantes" alt="Profile Views"/>
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfff&height=120&section=footer"/>
