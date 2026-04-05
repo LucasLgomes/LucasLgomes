@@ -57,17 +57,19 @@
 
 <br/>
 
-<h2 align="center">Estatísticas do GitHub</h2>
+<h2 align="center">Contribuições</h2>
 
 <div align="center">
 
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=LucasLgomes&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00bfff&icon_color=00bfff&text_color=c9d1d9&ring_color=00bfff&count_private=true" alt="GitHub Stats"/>
-  &nbsp;
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LucasLgomes&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00bfff&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
+  <img src="https://streak-stats.demolab.com?user=LucasLgomes&theme=tokyonight&hide_border=true&background=0D1117&ring=00bfff&fire=00bfff&currStreakLabel=00bfff&sideLabels=c9d1d9&dates=555555" alt="GitHub Streak"/>
 
   <br/><br/>
 
-  <img src="https://streak-stats.demolab.com?user=LucasLgomes&theme=tokyonight&hide_border=true&background=0D1117&ring=00bfff&fire=00bfff&currStreakLabel=00bfff&sideLabels=c9d1d9&dates=555555" alt="GitHub Streak"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LucasLgomes/LucasLgomes/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LucasLgomes/LucasLgomes/output/github-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/LucasLgomes/LucasLgomes/output/github-snake-dark.svg" />
+  </picture>
 
 </div>
 
@@ -89,8 +91,6 @@
 <br/>
 
 <div align="center">
-  <strong>"Código bom resolve problemas. Código com visão transforma operações."</strong>
-  <br/><br/>
   <img src="https://komarev.com/ghpvc/?username=LucasLgomes&color=00bfff&style=flat-square&label=Visitantes" alt="Profile Views"/>
 </div>
 
