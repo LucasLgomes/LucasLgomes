@@ -48,29 +48,47 @@
 <h2 align="center">Em progresso</h2>
 
 <div align="center">
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+
 </div>
 
 ---
 
-## 📊 Estatísticas do GitHub
+<h2 align="center">Estatísticas do GitHub</h2>
 
 <div align="center">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasLgomes&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00bfff&icon_color=00bfff&text_color=c9d1d9&ring_color=00bfff" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasLgomes&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00bfff&icon_color=00bfff&text_color=c9d1d9&ring_color=00bfff&count_private=true" alt="GitHub Stats"/>
   &nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasLgomes&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00bfff&text_color=c9d1d9" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasLgomes&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00bfff&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
 
   <br/><br/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=LucasLgomes&theme=tokyonight&hide_border=true&background=0D1117&ring=00bfff&fire=00bfff&currStreakLabel=00bfff&sideLabels=c9d1d9&dates=555555" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=LucasLgomes&theme=tokyonight&hide_border=true&background=0D1117&ring=00bfff&fire=00bfff&currStreakLabel=00bfff&sideLabels=c9d1d9&dates=555555" alt="GitHub Streak"/>
 
 </div>
 
+---
+
+<h2 align="center">Entre em contato comigo!</h2>
+
+<div align="center">
+
+  <a href="https://www.linkedin.com/in/lucaslima012" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-lucaslima012-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>&nbsp;
+  <a href="mailto:lucaslgomes549@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-lucaslgomes549-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+
+</div>
+
+---
 
 <div align="center">
   <br/>
